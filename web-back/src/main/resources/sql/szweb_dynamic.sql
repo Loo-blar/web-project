@@ -1,0 +1,3 @@
+INSERT INTO dynamic (id, hit, title, update_time, content, update_user) VALUES (2, 3, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-04-22 11:18:42', '测试', 1);
+INSERT INTO dynamic (id, hit, title, update_time, content, update_user) VALUES (3, 3, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-04-25 16:11:24', '测试', 1);
+INSERT INTO dynamic (id, hit, title, update_time, content, update_user) VALUES (4, 9, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-04-22 14:38:27', '测试', 1);

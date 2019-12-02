@@ -1,0 +1,14 @@
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (1, 10, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-04-22 14:19:31', '<p>内容测试</p>', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (2, 2, '首次承担十三五国家重点研发项目', '2019-04-22 13:40:42', '<p>内容测试</p>', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (3, 1, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-04-25 21:01:40', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (4, 0, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (5, 0, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (6, 6, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-04-22 14:58:58', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (7, 0, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (8, 0, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (9, 0, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (10, 0, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (11, 0, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (12, 0, '海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (13, 0, '11：海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-03-09 00:00:00', '测试', 'teaching', 1);
+INSERT INTO teaching_research (id, hit, title, update_time, content, type, update_user) VALUES (14, 1, '12：海南大学蔬菜团队首次承担十三五国家重点研发项目', '2019-04-22 21:11:14', '测试', 'research', 1);

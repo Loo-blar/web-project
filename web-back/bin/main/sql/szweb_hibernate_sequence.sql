@@ -1,0 +1,1 @@
+INSERT INTO szweb.hibernate_sequence (next_val) VALUES (1);

@@ -1,0 +1,3 @@
+INSERT INTO szweb.graduate (id, hit, title, update_time, content, imgurl, update_user) VALUES (1, 4, '优秀校友-张无忌', '2019-04-22 15:05:21', '', 'http://localhost:8000/upload/file/image/dd4bfdda-047c-4aac-9be2-b9b196120b6f.jpg', 1);
+INSERT INTO szweb.graduate (id, hit, title, update_time, content, imgurl, update_user) VALUES (2, 6, '优秀校友-杨过', '2019-04-24 21:11:45', '<p>优秀校友-杨过</p>', 'http://localhost:8000/upload/file/image/ff2951e9-f2c1-4e22-972d-c9e86e2bad5f.jpg', 1);
+INSERT INTO szweb.graduate (id, hit, title, update_time, content, imgurl, update_user) VALUES (3, 3, '优秀校友-段誉', '2019-04-22 21:02:09', '<p>优秀校友-段誉</p>', 'http://localhost:8000/upload/file/image/11f0c691-f859-4013-8805-87bc0aa320c1.jpg', 1);
